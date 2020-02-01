@@ -1,0 +1,11 @@
+DEBUG output for MyTable
+-------------------------------------
+Index 0: (1 conflicts), [Product & Customer Support, Sales Operations, ]
+Index 1: (3 conflicts), [Technical Writing, Technical Solutions, Legal & Government Relations, Marketing & Communications, ]
+Index 2: (3 conflicts), [IT & Data Management, Technical Infrastructure, Software Engineering, Finance, ]
+Index 3: (2 conflicts), [People Operations, Hardware Engineering, Business Strategy, ]
+Index 4: (2 conflicts), [Manufacturing & Supply Chain, Real Estate & Workplace Services, Sales & Account Management, ]
+Index 5: (0 conflicts), []
+Index 6: (0 conflicts), [Administrative, ]
+Index 7: (5 conflicts), [Data Center & Network, Network Engineering, Developer Relations, Program Management, User Experience & Design, Partnerships, ]
+Total # of conflicts: 16

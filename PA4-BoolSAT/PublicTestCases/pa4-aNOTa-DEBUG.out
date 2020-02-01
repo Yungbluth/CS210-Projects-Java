@@ -1,0 +1,4 @@
+input: (A NAND (A NAND A)) NAND (A NAND (A NAND A))
+UNSAT
+A: false, false
+A: true, false

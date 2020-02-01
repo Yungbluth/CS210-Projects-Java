@@ -1,0 +1,4 @@
+input: a NAND a
+SAT
+a: false, true
+a: true, false

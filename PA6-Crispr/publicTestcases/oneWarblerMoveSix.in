@@ -1,0 +1,17 @@
+rows: 10
+cols: 10
+
+CREATE (1,1) warbler female 3
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT

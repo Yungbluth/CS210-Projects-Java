@@ -1,0 +1,35 @@
+rows: 10
+cols: 10
+delay: .5
+
+CREATE (1,1) lion female right
+CREATE (7,7) bee female false
+CREATE (1,7) warbler female 2
+CREATE (7,1) mosquito female false true false
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT

@@ -1,0 +1,1 @@
+  x \tNAND (( (y) NAND (z NAND c))) NAND fds

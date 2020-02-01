@@ -1,0 +1,10 @@
+rows: 10
+cols: 10
+
+CREATE (1,1) lion female right
+CREATE (7,7) bee female false
+CREATE (7,1) warbler female 2
+CREATE (1,7) mosquito female false true false
+PRINT
+MOVE
+PRINT

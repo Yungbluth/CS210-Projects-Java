@@ -1,0 +1,2 @@
+input: (A NAND (A NAND A)) NAND (A NAND (A NAND A))
+UNSAT

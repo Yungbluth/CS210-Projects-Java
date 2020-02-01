@@ -1,0 +1,48 @@
+rows: 7
+cols: 7
+
+CREATE (1,1) bee female false
+CREATE (2,2) bee male true
+CREATE (3,3) warbler female 6
+CREATE (4,4) warbler male 7
+CREATE (5,5) lion female right
+CREATE (6,6) lion male left
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT

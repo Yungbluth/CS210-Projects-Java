@@ -1,0 +1,19 @@
+rows: 4
+cols: 5
+
+CREATE (2,3) warbler female 2
+CREATE (2,3) elephant male right
+CREATE (3,4) bee male true
+PRINT
+MOVE (2,3)
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT

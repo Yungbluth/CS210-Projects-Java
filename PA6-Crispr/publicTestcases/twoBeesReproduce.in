@@ -1,0 +1,19 @@
+rows: 10
+cols: 10
+
+CREATE (1,1) mosquito female true false true
+CREATE (1,1) mosquito male true true true
+REPRODUCE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT
+MOVE
+PRINT

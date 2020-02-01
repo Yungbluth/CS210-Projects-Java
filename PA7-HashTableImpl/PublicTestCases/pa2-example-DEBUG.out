@@ -1,0 +1,11 @@
+DEBUG output for MyTable
+-------------------------------------
+Index 0: (0 conflicts), []
+Index 1: (0 conflicts), []
+Index 2: (0 conflicts), []
+Index 3: (0 conflicts), []
+Index 4: (0 conflicts), []
+Index 5: (0 conflicts), [CategoryY, ]
+Index 6: (0 conflicts), [CategoryX, ]
+Index 7: (0 conflicts), []
+Total # of conflicts: 0

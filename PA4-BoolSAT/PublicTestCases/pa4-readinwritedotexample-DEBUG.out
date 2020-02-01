@@ -1,0 +1,18 @@
+input: a NAND (b NAND $t) NAND _3
+SAT
+$t: false, _3: false, a: false, b: false, true
+$t: false, _3: false, a: false, b: true, true
+$t: false, _3: false, a: true, b: false, true
+$t: false, _3: false, a: true, b: true, true
+$t: false, _3: true, a: false, b: false, false
+$t: false, _3: true, a: false, b: true, false
+$t: false, _3: true, a: true, b: false, true
+$t: false, _3: true, a: true, b: true, true
+$t: true, _3: false, a: false, b: false, true
+$t: true, _3: false, a: false, b: true, true
+$t: true, _3: false, a: true, b: false, true
+$t: true, _3: false, a: true, b: true, true
+$t: true, _3: true, a: false, b: false, false
+$t: true, _3: true, a: false, b: true, false
+$t: true, _3: true, a: true, b: false, true
+$t: true, _3: true, a: true, b: true, false

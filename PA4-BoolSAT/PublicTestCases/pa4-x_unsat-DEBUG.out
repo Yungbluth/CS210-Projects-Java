@@ -1,0 +1,4 @@
+input: ((x NAND x) NAND ((x NAND x) NAND (x NAND x))) NAND ((x NAND x) NAND ((x NAND x) NAND (x NAND x)))
+UNSAT
+x: false, false
+x: true, false
